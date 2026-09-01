@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="Logo da Organização" width="120" />
+  <img src="github/assets/logo.png" alt="Logo da Organização" width="120" />
   
   # ProgComp UEM
   
