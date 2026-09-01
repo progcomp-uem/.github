@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/progcomp-uem/.github/blob/c99b465b46a63d28785b1f50f8b6bb6be6d4944b/assets/logo.png" alt="Logo da Organização" width="120" />
+  <img src="https://raw.githubusercontent.com/progcomp-uem/.github/main/assets/logo.png" alt="Logo da Organização" width="120" /><img src="[https://raw.githubusercontent.com/progcomp-uem/.github/main/assets/logo.png](https://raw.githubusercontent.com/progcomp-uem/.github/main/assets/logo.png)" alt="Logo da Organização" width="120" />
   
   # ProgComp UEM
   
